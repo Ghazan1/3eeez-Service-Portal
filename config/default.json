@@ -1,0 +1,4 @@
+{
+    "mongoUrl": "mongodb://localhost/3eeez",
+    "mySecret": "mySecretToken"
+}
